@@ -13,7 +13,6 @@
         self.nixosModules.desktop
         self.nixosModules.orca-slicer
         self.nixosModules.syncthing
-        self.nixosModules.obsidian
       ];
 
     # Bootloader.
