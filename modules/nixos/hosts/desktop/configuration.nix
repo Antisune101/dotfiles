@@ -13,6 +13,7 @@
         self.nixosModules.general
         self.nixosModules.gaming
         self.nixosModules.desktop
+        self.nixosModules.jellyfin
         self.nixosModules.orca-slicer
         self.nixosModules.syncthing
       ];
