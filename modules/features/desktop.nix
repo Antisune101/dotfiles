@@ -12,7 +12,8 @@
       pear-desktop
       grayjay
       obsidian
-      
+      picard
+      yt-dlp
     ];
   };
 }
